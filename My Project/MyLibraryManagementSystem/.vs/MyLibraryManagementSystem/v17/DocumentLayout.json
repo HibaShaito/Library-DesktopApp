@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\LIU\\Semester 4-spring-2023-2024\\CSCI370-Visual Programming\\Project-Hiba\\My Project\\MyLibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCC1687-727E-41DD-B34B-EA7E58841D52}|MyLibraryManagementSystem.csproj|c:\\users\\lenovo\\desktop\\liu\\semester 4-spring-2023-2024\\csci370-visual programming\\project-hiba\\my project\\mylibrarymanagementsystem\\returnbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDCC1687-727E-41DD-B34B-EA7E58841D52}|MyLibraryManagementSystem.csproj|solutionrelative:returnbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCC1687-727E-41DD-B34B-EA7E58841D52}|MyLibraryManagementSystem.csproj|C:\\Users\\Lenovo\\Desktop\\LIU\\Semester 4-spring-2023-2024\\CSCI370-Visual Programming\\Project-Hiba\\My Project\\MyLibraryManagementSystem\\returnbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BDCC1687-727E-41DD-B34B-EA7E58841D52}|MyLibraryManagementSystem.csproj|solutionrelative:returnbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCC1687-727E-41DD-B34B-EA7E58841D52}|MyLibraryManagementSystem.csproj|c:\\users\\lenovo\\desktop\\liu\\semester 4-spring-2023-2024\\csci370-visual programming\\project-hiba\\my project\\mylibrarymanagementsystem\\issuebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDCC1687-727E-41DD-B34B-EA7E58841D52}|MyLibraryManagementSystem.csproj|solutionrelative:issuebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCC1687-727E-41DD-B34B-EA7E58841D52}|MyLibraryManagementSystem.csproj|C:\\Users\\Lenovo\\Desktop\\LIU\\Semester 4-spring-2023-2024\\CSCI370-Visual Programming\\Project-Hiba\\My Project\\MyLibraryManagementSystem\\issuebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BDCC1687-727E-41DD-B34B-EA7E58841D52}|MyLibraryManagementSystem.csproj|solutionrelative:issuebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCC1687-727E-41DD-B34B-EA7E58841D52}|MyLibraryManagementSystem.csproj|C:\\Users\\Lenovo\\Desktop\\LIU\\Semester 4-spring-2023-2024\\CSCI370-Visual Programming\\Project-Hiba\\My Project\\MyLibraryManagementSystem\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDCC1687-727E-41DD-B34B-EA7E58841D52}|MyLibraryManagementSystem.csproj|solutionrelative:home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCC1687-727E-41DD-B34B-EA7E58841D52}|MyLibraryManagementSystem.csproj|C:\\Users\\Lenovo\\Desktop\\LIU\\Semester 4-spring-2023-2024\\CSCI370-Visual Programming\\Project-Hiba\\My Project\\MyLibraryManagementSystem\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BDCC1687-727E-41DD-B34B-EA7E58841D52}|MyLibraryManagementSystem.csproj|solutionrelative:home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReturnBooks.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\LIU\\Semester 4-spring-2023-2024\\CSCI370-Visual Programming\\Project-Hiba\\My Project\\MyLibraryManagementSystem\\ReturnBooks.cs",
+              "RelativeDocumentMoniker": "ReturnBooks.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\LIU\\Semester 4-spring-2023-2024\\CSCI370-Visual Programming\\Project-Hiba\\My Project\\MyLibraryManagementSystem\\ReturnBooks.cs",
+              "RelativeToolTip": "ReturnBooks.cs",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAAAMkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T18:42:44.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IssueBooks.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\LIU\\Semester 4-spring-2023-2024\\CSCI370-Visual Programming\\Project-Hiba\\My Project\\MyLibraryManagementSystem\\IssueBooks.cs",
+              "RelativeDocumentMoniker": "IssueBooks.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\LIU\\Semester 4-spring-2023-2024\\CSCI370-Visual Programming\\Project-Hiba\\My Project\\MyLibraryManagementSystem\\IssueBooks.cs",
+              "RelativeToolTip": "IssueBooks.cs",
+              "ViewState": "AQIAAB0BAAAAAAAAAAAAAA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T05:16:20.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IssueBooks.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\LIU\\Semester 4-spring-2023-2024\\CSCI370-Visual Programming\\Project-Hiba\\My Project\\MyLibraryManagementSystem\\IssueBooks.cs",
+              "RelativeDocumentMoniker": "IssueBooks.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\LIU\\Semester 4-spring-2023-2024\\CSCI370-Visual Programming\\Project-Hiba\\My Project\\MyLibraryManagementSystem\\IssueBooks.cs [Design]",
+              "RelativeToolTip": "IssueBooks.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T05:16:16.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Home.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\LIU\\Semester 4-spring-2023-2024\\CSCI370-Visual Programming\\Project-Hiba\\My Project\\MyLibraryManagementSystem\\Home.cs",
+              "RelativeDocumentMoniker": "Home.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\LIU\\Semester 4-spring-2023-2024\\CSCI370-Visual Programming\\Project-Hiba\\My Project\\MyLibraryManagementSystem\\Home.cs",
+              "RelativeToolTip": "Home.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAAAGEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T20:57:36.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\LIU\\Semester 4-spring-2023-2024\\CSCI370-Visual Programming\\Project-Hiba\\My Project\\MyLibraryManagementSystem\\Home.cs",
+              "RelativeDocumentMoniker": "Home.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\LIU\\Semester 4-spring-2023-2024\\CSCI370-Visual Programming\\Project-Hiba\\My Project\\MyLibraryManagementSystem\\Home.cs [Design]",
+              "RelativeToolTip": "Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T20:57:33.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReturnBooks.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\LIU\\Semester 4-spring-2023-2024\\CSCI370-Visual Programming\\Project-Hiba\\My Project\\MyLibraryManagementSystem\\ReturnBooks.cs",
+              "RelativeDocumentMoniker": "ReturnBooks.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\LIU\\Semester 4-spring-2023-2024\\CSCI370-Visual Programming\\Project-Hiba\\My Project\\MyLibraryManagementSystem\\ReturnBooks.cs [Design]",
+              "RelativeToolTip": "ReturnBooks.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T20:51:04.107Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
